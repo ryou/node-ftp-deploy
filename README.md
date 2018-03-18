@@ -13,7 +13,7 @@ npm i https://github.com/ryou/node-ftp-deploy.git
 ### コード
 
 ```
-const ftpDeploy = require('node-ftp-deploy');
+const ftpDeploy = require('ftp-deploy');
 
 ftpDeploy({
   local: {
